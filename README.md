@@ -34,11 +34,10 @@ Name the project “VectorSorting”. Remember to pick the correct compiler in T
 Download the starter program files and copy them to the project’s /src directory, replacing the existing auto-generated ones. Remember to right-click on the project in the Project Explorer pane on the left and Refresh the project so it adds all the new files to the src folder underneath.
 Because this activity uses C++ 11 features, you may need to add the -std=c++11 compiler switch to the miscellaneous settings.
 
-**Task 1: Implement the selection sort algorithm:**
-
+***Task 1: Implement the selection sort algorithm:
 Code the selection sort logic using “bid.title” as the sort field.
-Invoke the selectionSort() method from the main() method including collecting and reporting timing results.
-Task 2: Implement the quicksort algorithm:
+Invoke the selectionSort() method from the main() method including collecting and reporting timing results.***
 
+***Task 2: Implement the quicksort algorithm:
 Code the quicksort logic using “bid.title” as the sort field.
-Invoke the quickSort() method from the main() method including collecting and reporting timing results.
+Invoke the quickSort() method from the main() method including collecting and reporting timing results.***
